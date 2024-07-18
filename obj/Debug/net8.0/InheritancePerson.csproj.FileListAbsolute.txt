@@ -1,0 +1,14 @@
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\bin\Debug\net8.0\InheritancePerson.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\bin\Debug\net8.0\InheritancePerson.deps.json
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\bin\Debug\net8.0\InheritancePerson.runtimeconfig.json
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\bin\Debug\net8.0\InheritancePerson.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\bin\Debug\net8.0\InheritancePerson.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\obj\Debug\net8.0\InheritancePerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\obj\Debug\net8.0\InheritancePerson.AssemblyInfoInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\obj\Debug\net8.0\InheritancePerson.AssemblyInfo.cs
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\obj\Debug\net8.0\InheritancePerson.csproj.CoreCompileInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\obj\Debug\net8.0\InheritancePerson.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\obj\Debug\net8.0\refint\InheritancePerson.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\obj\Debug\net8.0\InheritancePerson.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\obj\Debug\net8.0\InheritancePerson.genruntimeconfig.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\InheritancePerson\obj\Debug\net8.0\ref\InheritancePerson.dll
